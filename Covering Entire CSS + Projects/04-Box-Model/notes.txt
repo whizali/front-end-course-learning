@@ -1,0 +1,13 @@
+the border property is outside of a box,.
+the padding pushes the border away from the element increasing the space between them.
+the margin is outside of the border.
+
+
+element->padding->border->margin
+
+padding, margin, border accept 4 argument. 
+
+padding: 0px 1px 2px 3px
+margin: 0px 1px 2px 3px
+border-width: 0px 1px 2px 3px
+clockwise: top right bottom left

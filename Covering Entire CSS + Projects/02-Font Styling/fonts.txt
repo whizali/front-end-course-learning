@@ -1,0 +1,10 @@
+---font size---1em vs 1rem---
+1em is relative to the 100% of the parent. 2em -> 200% of the parent
+1rem is relative not to the parent but to the 100% root, but the highest conventionally what is called the html. 2rem -> 200% of the root.
+
+rem is to be preffered to control varios size on the screen.
+
+---font weight--- the boldness of a font.
+normal
+lighter/bolder -- relative
+number 100-900
