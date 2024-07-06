@@ -1,0 +1,4 @@
+internet connect through global wires connecting to various server
+client->ISP->dns-server --- a dns server is a phonebook containing all the list of all possible ip's.
+
+
