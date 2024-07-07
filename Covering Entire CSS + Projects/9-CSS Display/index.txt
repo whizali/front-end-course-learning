@@ -1,0 +1,5 @@
+display: block; -- elemeents allowed to set their height and width.
+display: inline; -- elements that go in the same line
+display: inline-block; elemetents that are allowed to set their height and width and also go in the same line.
+display:none - disappear
+display: grid -- define columns and rows to be laid out.

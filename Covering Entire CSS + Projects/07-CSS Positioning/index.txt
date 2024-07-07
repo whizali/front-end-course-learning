@@ -1,0 +1,16 @@
+1. position:static -- css default
+2. position:relative -- relative to the default [static] position.
+3. position:absolute -- position relative to the *nearest* positioned ancestor[parent] element
+4. position:fixed -- fixed position relative to the corner of the browser window
+
+
+z-index default is set to 0. the lower the z-index then the element will be below such an element having high z-index.
+
+div{
+    z-index: 1;
+}
+div .child{
+    z-index: 0;
+}
+
+div-- will be on top of the child.

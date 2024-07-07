@@ -1,0 +1,1 @@
+float: left -- the element floats or wraps around the text/or other elements.
