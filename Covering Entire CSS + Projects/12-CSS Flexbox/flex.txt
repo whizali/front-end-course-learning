@@ -1,0 +1,3 @@
+in a display:flex the wrapper or container div is set to display flex.
+
+display:flex.

@@ -1,0 +1,18 @@
+// order //
+the order property works only for the chidren within a parent div.
+
+by default every child has 0 order. when any og the 1 is assigned with order it goes to the last of the divs.
+
+// flex-wrap -- parent property
+wrap -- same poperty used in notepad, words get pushed within the same line without moving to the next line.
+by default flex-wrap: nowrap
+
+to move to next line below is to be used
+flex-wrap: wrap
+
+justify-content --parent property across the x axis
+
+align-items -- parent propery position across the y-axis.
+align-self -- children property.
+
+align-content -- works only when flex box is wrap.

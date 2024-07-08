@@ -1,0 +1,6 @@
+.container {
+    display:grid;
+    grid-template-columns: 1fr 2fr auto; // auto on a row-- fits content
+    grid-template-rows: 1fr 1fr auto; // auto on a column -- fits 100% to width
+    gap: 10px
+}
