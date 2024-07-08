@@ -1,0 +1,24 @@
+Responsiveness is how a website reacts to changes occuring, most of what is the change in screen sizes. it allow's the developers to code screen-size friendly devices prompting a good user exp.
+
+1. Media queries. 
+2. css grid- how the columns or rows are to be laid out.
+3. css flexbox - 12 division system
+4. External Framework Bootstrap[built on flex-box system] and Tailwind. 
+
+@media(break-point: ?){
+    .element-style{
+        css
+    }
+}
+
+@media(break-point: ?) and (break-point: ?){
+    .element-style{
+        css
+    }
+}
+
+@media(max-width: 600px) and (min-width: 900px){
+    .element-style{
+        css styles between screen sizes from 600 px to 900px
+    }
+}
