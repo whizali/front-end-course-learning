@@ -1,0 +1,3 @@
+mosaic -> netscape -> internet explorer -> firefox
+javascript was first called live script, then ecmascript (es) 6 now.
+interpretted language. not a compiled language.
