@@ -1,0 +1,35 @@
+kernal -- core of OS which 
+shell - user interacts - gui or cli 
+
+BASH bourne again shell - cli for the unix systems. 
+
+unix systems are linux, macOS.
+most servers run on unix
+windows run on DOS is completely different.
+
+command line interpreter (CLI) - provides better control over the comp hardware. 
+
+
+cd 
+mkdir 
+ls -a
+
+
+for moving back in directory -- cd ../
+
+create a file by using touch name.
+---
+touch text.txt
+start text.txt
+code text.txt
+rm text.txt
+rm * delete all files only
+
+to delete directory we use
+rm -r name/
+
+print directory path by -- pwd
+------
+
+mkdir, cd, ls, ../, touch, open, code, rm, rm -r name/
+make dir, change dir, list all, create, start/edit, remove, remove directory
