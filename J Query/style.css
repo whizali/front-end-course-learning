@@ -1,0 +1,9 @@
+.big-title {
+    background-color: red;
+    font-size: 100px;
+}
+.mp-title{
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+}
